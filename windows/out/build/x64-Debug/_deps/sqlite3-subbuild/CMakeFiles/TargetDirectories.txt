@@ -1,0 +1,3 @@
+D:/flutter_projects/buddy_open_ai_chat_bot/buddy_open_ai_chat_bot/windows/out/build/x64-Debug/_deps/sqlite3-subbuild/CMakeFiles/sqlite3-populate.dir
+D:/flutter_projects/buddy_open_ai_chat_bot/buddy_open_ai_chat_bot/windows/out/build/x64-Debug/_deps/sqlite3-subbuild/CMakeFiles/edit_cache.dir
+D:/flutter_projects/buddy_open_ai_chat_bot/buddy_open_ai_chat_bot/windows/out/build/x64-Debug/_deps/sqlite3-subbuild/CMakeFiles/rebuild_cache.dir

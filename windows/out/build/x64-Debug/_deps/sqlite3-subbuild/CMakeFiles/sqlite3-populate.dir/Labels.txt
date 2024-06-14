@@ -1,0 +1,14 @@
+# Target labels
+ sqlite3-populate
+# Source files and their labels
+D:/flutter_projects/buddy_open_ai_chat_bot/buddy_open_ai_chat_bot/windows/out/build/x64-Debug/_deps/sqlite3-subbuild/CMakeFiles/sqlite3-populate
+D:/flutter_projects/buddy_open_ai_chat_bot/buddy_open_ai_chat_bot/windows/out/build/x64-Debug/_deps/sqlite3-subbuild/CMakeFiles/sqlite3-populate.rule
+D:/flutter_projects/buddy_open_ai_chat_bot/buddy_open_ai_chat_bot/windows/out/build/x64-Debug/_deps/sqlite3-subbuild/CMakeFiles/sqlite3-populate-complete.rule
+D:/flutter_projects/buddy_open_ai_chat_bot/buddy_open_ai_chat_bot/windows/out/build/x64-Debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-build.rule
+D:/flutter_projects/buddy_open_ai_chat_bot/buddy_open_ai_chat_bot/windows/out/build/x64-Debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-configure.rule
+D:/flutter_projects/buddy_open_ai_chat_bot/buddy_open_ai_chat_bot/windows/out/build/x64-Debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-download.rule
+D:/flutter_projects/buddy_open_ai_chat_bot/buddy_open_ai_chat_bot/windows/out/build/x64-Debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-install.rule
+D:/flutter_projects/buddy_open_ai_chat_bot/buddy_open_ai_chat_bot/windows/out/build/x64-Debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-mkdir.rule
+D:/flutter_projects/buddy_open_ai_chat_bot/buddy_open_ai_chat_bot/windows/out/build/x64-Debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-patch.rule
+D:/flutter_projects/buddy_open_ai_chat_bot/buddy_open_ai_chat_bot/windows/out/build/x64-Debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-test.rule
+D:/flutter_projects/buddy_open_ai_chat_bot/buddy_open_ai_chat_bot/windows/out/build/x64-Debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-update.rule

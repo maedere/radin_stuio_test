@@ -1,0 +1,332 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-fd2f76534e1e9a3de790.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "flutter",
+					"jsonFile" : "directory-flutter-Debug-79e0260f2327d8493c28.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "flutter",
+					"targetIndexes" : 
+					[
+						2,
+						4,
+						5
+					]
+				},
+				{
+					"build" : "runner",
+					"jsonFile" : "directory-runner-Debug-86f38b7dcb6f33eb04e4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "runner",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "plugins/desktop_webview_window",
+					"jsonFile" : "directory-plugins.desktop_webview_window-Debug-d67162f57dc0722a04a1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "flutter/ephemeral/.plugin_symlinks/desktop_webview_window/windows",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "plugins/flutter_tts",
+					"jsonFile" : "directory-plugins.flutter_tts-Debug-e131f3e3d8a4229c56de.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "flutter/ephemeral/.plugin_symlinks/flutter_tts/windows",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "plugins/sqlite3_flutter_libs",
+					"jsonFile" : "directory-plugins.sqlite3_flutter_libs-Debug-29a935b9646d7cd0c9c2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "flutter/ephemeral/.plugin_symlinks/sqlite3_flutter_libs/windows",
+					"targetIndexes" : 
+					[
+						6,
+						7
+					]
+				},
+				{
+					"build" : "plugins/url_launcher_windows",
+					"jsonFile" : "directory-plugins.url_launcher_windows-Debug-b718b41db8fa69359ace.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 5,
+					"source" : "flutter/ephemeral/.plugin_symlinks/url_launcher_windows/windows",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "plugins/webview_windows",
+					"jsonFile" : "directory-plugins.webview_windows-Debug-797f71a4285f0ebcf258.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 6,
+					"source" : "flutter/ephemeral/.plugin_symlinks/webview_windows/windows",
+					"targetIndexes" : 
+					[
+						9,
+						10
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "buddy_open_ai_chat_bot",
+					"targetIndexes" : 
+					[
+						2,
+						4,
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "runner",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "desktop_webview_window",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "flutter_tts",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "sqlite3_flutter_libs",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						6,
+						7
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "url_launcher_windows",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "webview_windows",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "buddy_open_ai_chat_bot::@056c4f61b0156d1d9b06",
+					"jsonFile" : "target-buddy_open_ai_chat_bot-Debug-db9e89c37b45d6e59f14.json",
+					"name" : "buddy_open_ai_chat_bot",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "desktop_webview_window_plugin::@5214b3d36be7e2390bc9",
+					"jsonFile" : "target-desktop_webview_window_plugin-Debug-7d2e3f09b9c74077bdfb.json",
+					"name" : "desktop_webview_window_plugin",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "flutter_assemble::@2bb09fbb03a373b2cb34",
+					"jsonFile" : "target-flutter_assemble-Debug-cb3fecbbe66607912d0c.json",
+					"name" : "flutter_assemble",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "flutter_tts_plugin::@060b260d6ae7b709c9e0",
+					"jsonFile" : "target-flutter_tts_plugin-Debug-342e4fca2af72954b5a6.json",
+					"name" : "flutter_tts_plugin",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "flutter_wrapper_app::@2bb09fbb03a373b2cb34",
+					"jsonFile" : "target-flutter_wrapper_app-Debug-aeef5627ad5b2bc42f51.json",
+					"name" : "flutter_wrapper_app",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "flutter_wrapper_plugin::@2bb09fbb03a373b2cb34",
+					"jsonFile" : "target-flutter_wrapper_plugin-Debug-8d2fee47267a92cf7c15.json",
+					"name" : "flutter_wrapper_plugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "sqlite3::@4bedf820cada57b6209e",
+					"jsonFile" : "target-sqlite3-Debug-a93a2cdfa38d6c622f34.json",
+					"name" : "sqlite3",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "sqlite3_flutter_libs_plugin::@4bedf820cada57b6209e",
+					"jsonFile" : "target-sqlite3_flutter_libs_plugin-Debug-47448fafd8187ef37818.json",
+					"name" : "sqlite3_flutter_libs_plugin",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "url_launcher_windows_plugin::@82e8e937a0da8e6132e4",
+					"jsonFile" : "target-url_launcher_windows_plugin-Debug-e64e023f1c4e42d0990b.json",
+					"name" : "url_launcher_windows_plugin",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "webview_windows_DEPENDENCIES_DOWNLOAD::@4eabb5beed6399285b2d",
+					"jsonFile" : "target-webview_windows_DEPENDENCIES_DOWNLOAD-Debug-a1e90f676b891c79afc3.json",
+					"name" : "webview_windows_DEPENDENCIES_DOWNLOAD",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "webview_windows_plugin::@4eabb5beed6399285b2d",
+					"jsonFile" : "target-webview_windows_plugin-Debug-f629a25ced1aef5c1e9c.json",
+					"name" : "webview_windows_plugin",
+					"projectIndex" : 6
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/flutter_projects/buddy_open_ai_chat_bot/buddy_open_ai_chat_bot/windows/out/build/x64-Debug",
+		"source" : "D:/flutter_projects/buddy_open_ai_chat_bot/buddy_open_ai_chat_bot/windows"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

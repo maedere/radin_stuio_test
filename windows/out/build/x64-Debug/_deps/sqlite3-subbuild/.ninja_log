@@ -1,0 +1,23 @@
+# ninja log v5
+1	833	7349106706792826	sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-mkdir	6decbdde70c86cf3
+833	9659	7349106795088592	sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-download	4e2a003b2129d334
+833	9659	7349106795088592	D:/flutter_projects/buddy_open_ai_chat_bot/buddy_open_ai_chat_bot/windows/out/build/x64-Debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-download	4e2a003b2129d334
+12984	13635	7349106834921276	D:/flutter_projects/buddy_open_ai_chat_bot/buddy_open_ai_chat_bot/windows/out/build/x64-Debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-test	dc19f653555ed186
+1	833	7349106706792826	D:/flutter_projects/buddy_open_ai_chat_bot/buddy_open_ai_chat_bot/windows/out/build/x64-Debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-mkdir	6decbdde70c86cf3
+833	9659	7349106795088592	sqlite3-populate-prefix/src/sqlite-autoconf-3450100.tar.gz	4e2a003b2129d334
+11532	12258	7349106821164152	D:/flutter_projects/buddy_open_ai_chat_bot/buddy_open_ai_chat_bot/windows/out/build/x64-Debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-build	632a78c993c133d8
+10317	10853	7349106807107627	sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-patch	571e11e65162a057
+9675	10317	7349106801662977	D:/flutter_projects/buddy_open_ai_chat_bot/buddy_open_ai_chat_bot/windows/out/build/x64-Debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-update	4d2b793569528b0d
+833	9659	7349106795088592	D:/flutter_projects/buddy_open_ai_chat_bot/buddy_open_ai_chat_bot/windows/out/build/x64-Debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite-autoconf-3450100.tar.gz	4e2a003b2129d334
+9675	10317	7349106801662977	sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-update	4d2b793569528b0d
+10853	11532	7349106813902052	sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-configure	f22c20099d2e0885
+10317	10853	7349106807107627	D:/flutter_projects/buddy_open_ai_chat_bot/buddy_open_ai_chat_bot/windows/out/build/x64-Debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-patch	571e11e65162a057
+10853	11532	7349106813902052	D:/flutter_projects/buddy_open_ai_chat_bot/buddy_open_ai_chat_bot/windows/out/build/x64-Debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-configure	f22c20099d2e0885
+11532	12258	7349106821164152	sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-build	632a78c993c133d8
+12258	12984	7349106828427863	sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-install	b5eb1295224c1146
+13635	14446	7349106843047490	sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-done	17c363f95fba5707
+12258	12984	7349106828427863	D:/flutter_projects/buddy_open_ai_chat_bot/buddy_open_ai_chat_bot/windows/out/build/x64-Debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-install	b5eb1295224c1146
+12984	13635	7349106834921276	sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-test	dc19f653555ed186
+13635	14446	7349106843047490	CMakeFiles/sqlite3-populate-complete	17c363f95fba5707
+13635	14446	7349106843047490	D:/flutter_projects/buddy_open_ai_chat_bot/buddy_open_ai_chat_bot/windows/out/build/x64-Debug/_deps/sqlite3-subbuild/CMakeFiles/sqlite3-populate-complete	17c363f95fba5707
+13635	14446	7349106843047490	D:/flutter_projects/buddy_open_ai_chat_bot/buddy_open_ai_chat_bot/windows/out/build/x64-Debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-done	17c363f95fba5707
